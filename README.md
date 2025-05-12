@@ -30,7 +30,7 @@ The solution involves using Orange, an open-source data mining tool, to analyze 
  • Real-Time Dashboard: Visualizing trends and risk levels for proactive decisionmaking.
 
 ## Dataset Used
-Ocean Turbine Crack Dataset
+- <a href="https://github.com/suriya2318/Micro-Crack-Detection-in-Underwater-Turbine-Blades/blob/main/Ocean_Turbine_Crack_Dataset.csv"> Ocean Turbine Crack Dataset </a>
 
 
 
